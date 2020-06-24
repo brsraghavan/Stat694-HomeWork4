@@ -1,0 +1,18 @@
+
+---
+title: "Stat. 694 HW 4 - RStudio Integration with GITHUB"
+author: "Srinivasa R Banai Rajaraman"
+date: "Jun 25, 2020"
+output: word_document
+---
+
+NetID: AK2475
+
+
+
+```{r}
+print("Hello Git1!")
+print("This is my first R Script using GitHub")
+```
+
+Repo: https://github.com/brsraghavan/Stat694-HomeWork4
