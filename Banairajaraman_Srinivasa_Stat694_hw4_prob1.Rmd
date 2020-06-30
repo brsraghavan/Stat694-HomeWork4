@@ -1,4 +1,3 @@
-
 ---
 title: "Stat. 694 HW 4 - RStudio Integration with GITHUB"
 author: "Srinivasa R Banai Rajaraman"
